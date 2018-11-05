@@ -230,6 +230,19 @@ const configFactory = type => {
                 }
             },
             {
+                name: 'CSS tag names',
+                scope: [
+                    'source.css entity.name.tag',
+                    'source.sass entity.name.tag',
+                    'source.scss entity.name.tag',
+                    'source.less entity.name.tag',
+                    'source.stylus entity.name.tag'
+                ],
+                settings: {
+                    foreground: colorObj['second']
+                }
+            },
+            {
                 name: 'css color standard name',
                 scope:
                     'support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss',
