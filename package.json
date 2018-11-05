@@ -1,13 +1,14 @@
 {
     "name": "bazutya",
     "displayName": "bazutya",
-    "description": "",
-    "version": "0.0.1",
+    "description": "bazzzzzzzzzzzzzzzzzz",
+    "version": "0.0.3",
     "publisher": "bazutya",
     "repository": {
         "type": "git",
         "url": "https://github.com/kotuck/bazutya"
     },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
