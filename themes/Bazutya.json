@@ -923,7 +923,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#d5d5e8"
+        "foreground": "#81F4E1"
       }
     },
     {

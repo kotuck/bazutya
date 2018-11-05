@@ -818,7 +818,7 @@ const configFactory = type => {
                 name: 'Units',
                 scope: 'keyword.other.unit',
                 settings: {
-                    foreground: colorObj['variables']
+                    foreground: colorObj['second']
                 }
             },
             {
