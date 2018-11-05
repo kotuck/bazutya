@@ -1,0 +1,25 @@
+{
+    "name": "bazutya",
+    "displayName": "bazutya",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "bazutya",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bazutya",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bazutya.json"
+            }
+        ]
+    },
+    "scripts": {
+        "build": "node build"
+    }
+}

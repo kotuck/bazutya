@@ -1,0 +1,22 @@
+{
+    "classic": {
+        "main": "#FF6666",
+        "second": "#81F4E1",
+        "class": "#CCFF66",
+        "fn1": "#FFC43D",
+        "fn2": "#FFD166",
+        "params": "#FFFD82",
+        "consts": "#56CBF9",
+        "string": "#FFA69E",
+        "variables": "#d5d5e8",
+        "white": "#d5d5e8",
+        "lightDark": "#9090b2",
+        "dark": "#4c4c70",
+        "error": "#f44747",
+        "coral": "#e06c75",
+        "chalky": "#E5C07B",
+        "malibu": "#61AFEF",
+        "fountainBlue": "#56b6c2",
+        "invalid": "#FFFFFF"
+    }
+}
