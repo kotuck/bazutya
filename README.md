@@ -1,13 +1,30 @@
-# README
-## This is the README for your extension "bazutya"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# About Bazzzzutya
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a fork of One Dark Pro theme with a new palette and modified logic.
+It should work well with Javascript / Typescript / Golang / Python / HTML / JSON / CSS.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# B.A.Z.U.T.Y.A screenshots
 
-**Enjoy!**
+## Go
+
+![Screenshot](https://i.imgur.com/RETwnDY.png)
+
+## Javascript
+
+![Screenshot](https://i.imgur.com/S9UmbX2.png)
+
+## Python
+
+![Screenshot](https://i.imgur.com/yI2R9tb.png)
+
+## Json
+
+![Screenshot](https://i.imgur.com/FqnV9Ey.png)
+
+## CSS
+
+![Screenshot](https://i.imgur.com/LmFNAdV.png)
+
+## Jsx
+
+![Screenshot](https://i.imgur.com/aO5EUjD.png)
