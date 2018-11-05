@@ -8,12 +8,27 @@
         "type": "git",
         "url": "https://github.com/kotuck/bazutya"
     },
+    "bugs": {
+        "url": "https://github.com/kotuck/bazutya/issues"
+    },
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
     "categories": [
         "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#202030",
+        "theme": "dark"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "bazutya",
+        "juice",
+        "chief",
+        "colored"
     ],
     "contributes": {
         "themes": [
