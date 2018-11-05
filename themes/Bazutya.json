@@ -873,7 +873,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#56CBF9",
+        "foreground": "#CCFF66",
         "fontStyle": "normal"
       }
     },

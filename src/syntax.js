@@ -767,7 +767,7 @@ const configFactory = type => {
                 name: 'Attribute class',
                 scope: 'entity.other.attribute-name.class.css',
                 settings: {
-                    foreground: colorObj['consts'],
+                    foreground: colorObj['class'],
                     fontStyle: 'normal'
                 }
             },
