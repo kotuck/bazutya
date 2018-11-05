@@ -239,7 +239,7 @@ const configFactory = type => {
                     'source.stylus entity.name.tag'
                 ],
                 settings: {
-                    foreground: colorObj['second']
+                    foreground: colorObj['main']
                 }
             },
             {
