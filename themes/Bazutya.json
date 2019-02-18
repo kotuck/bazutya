@@ -254,7 +254,9 @@
     {
       "name": "math js/ts",
       "scope": "support.constant.math",
-      "settings": {}
+      "settings": {
+        "foreground": "#d5d5e8"
+      }
     },
     {
       "name": "math property js/ts",
@@ -266,7 +268,9 @@
     {
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
-      "settings": {}
+      "settings": {
+        "foreground": "#d5d5e8"
+      }
     },
     {
       "name": "java type",
@@ -598,7 +602,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#d5d5e8"
+        "foreground": "#81F4E1"
       }
     },
     {
