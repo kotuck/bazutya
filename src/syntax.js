@@ -489,7 +489,7 @@ const configFactory = type => {
                 name: 'Operators',
                 scope: 'keyword.operator',
                 settings: {
-                    foreground: colorObj['white']
+                    foreground: colorObj['second']
                 }
             },
             {
