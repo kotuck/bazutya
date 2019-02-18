@@ -132,7 +132,7 @@ const configFactory = type => {
                 name: 'math js/ts',
                 scope: 'support.constant.math',
                 settings: {
-                    foreground: colorObj['greyLight']
+                    foreground: colorObj['white']
                 }
             },
             {
@@ -146,7 +146,7 @@ const configFactory = type => {
                 name: 'js/ts variable.other.constant',
                 scope: 'variable.other.constant',
                 settings: {
-                    foreground: colorObj['greyLight']
+                    foreground: colorObj['white']
                 }
             },
             {
